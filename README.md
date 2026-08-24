@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.jpg.jpg" alt="Fareena KP GitHub Banner" width="100%">
+</p>
 # 👋 Hi, I'm Fareena KP
 
 ### 💻 Software Developer | Python | Flutter | FastAPI
