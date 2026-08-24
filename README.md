@@ -38,7 +38,7 @@ An AI-focused coding project designed to assist developers with programming-rela
 **Tech:** Python • AI • APIs
 
 ### 🎬 Netflix Clone
-A frontend project inspired by the Netflix streaming platform.
+A project inspired by the Netflix streaming platform.
 
 **Tech:** Web Development
 
